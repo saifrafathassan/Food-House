@@ -19,7 +19,7 @@ const About = () => {
                 </div>
                 <div className='grid gap-5'>
                     <h1 className='text-[#319966] md:text-4xl leading-5'>Jennifer Soft</h1>
-                    <h3 className='text-[#C39] text-[20px]'>Founder and CEO</h3>
+                    <h3 className='text-[#626364] text-[20px]'>Founder and CEO</h3>
                     <p className='text-[#626364] leading-7 max-w-[300px] text-[17px]'>Vivamus cursus leo nec sem feugiat sagittis. Duis ut feugiat odio, sit amet accumsan odio.</p>
                     <div className='icons flex md:gap-5'>
                         <FaFacebook size={40} className='text-[#626364] px-2 hover:bg-[#626364] hover:text-white transition-all cursor-pointer'/>
@@ -34,7 +34,7 @@ const About = () => {
                 </div>
                 <div className='grid gap-5'>
                     <h1 className='text-[#319966] md:text-4xl leading-5'>Daisy Walker</h1>
-                    <h3 className='text-[#C39] text-[20px]'>Executive Chef</h3>
+                    <h3 className='text-[#626364] text-[20px]'>Executive Chef</h3>
                     <p className='text-[#626364] leading-7 max-w-[300px] text-[17px]'>Praesent non vulputate elit. Orci varius natoque et magnis dis parturient, nascetur ridiculus mus.</p>
                     <div className='icons flex md:gap-5'>
                         <FaFacebook size={40} className='text-[#626364] px-2 hover:bg-[#626364] hover:text-white transition-all cursor-pointer'/>
@@ -49,7 +49,7 @@ const About = () => {
                 </div>
                 <div className='grid gap-5'>
                     <h1 className='text-[#319966] md:text-4xl leading-5'>Florence Nelson</h1>
-                    <h3 className='text-[#C39] text-[20px]'>Kitchen Manager</h3>
+                    <h3 className='text-[#626364] text-[20px]'>Kitchen Manager</h3>
                     <p className='text-[#626364] leading-7 max-w-[300px] text-[17px]'>Aenean sapien sem, ultricies sed vulputate et, auctor vel mauris. Integer sit amet diam eget est facilisis lacinia vitae.</p>
                     <div className='icons flex md:gap-5'>
                         <FaFacebook size={40} className='text-[#626364] px-2 hover:bg-[#626364] hover:text-white transition-all cursor-pointer'/>
@@ -64,7 +64,7 @@ const About = () => {
                 </div>
                 <div className='grid gap-5'>
                     <h1 className='text-[#319966] md:text-4xl leading-5'>Valentina Martin</h1>
-                    <h3 className='text-[#C39] text-[20px]'>Culinary Director</h3>
+                    <h3 className='text-[#626364] text-[20px]'>Culinary Director</h3>
                     <p className='text-[#626364] leading-7 max-w-[300px] text-[17px]'>Vivamus cursus leo nec sem feugiat sagittis. Duis ut feugiat odio, sit amet accumsan odio.</p>
                     <div className='icons flex md:gap-5'>
                         <FaFacebook size={40} className='text-[#626364] px-2 hover:bg-[#626364] hover:text-white transition-all cursor-pointer'/>
