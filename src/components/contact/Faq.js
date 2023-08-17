@@ -25,19 +25,19 @@ const Faq = () => {
             </div>
         </div>
         <div className='faq md:w-[600px] flex flex-col justify-center items-center mx-auto'>
-            <button onClick={handleClick2} className='bg-white flex justify-between items-center'>1.Fusce eu lorem et dui #09C maximus varius?{text2 ? <FaAngleLeft className='-rotate-90 duration-300'/> : <FaAngleLeft className='duration-300'/>}</button>
+            <button onClick={handleClick2} className='bg-white flex justify-between items-center'>2. Vestibulum #999 ante ipsum primis in faucibus orci?{text2 ? <FaAngleLeft className='-rotate-90 duration-300'/> : <FaAngleLeft className='duration-300'/>}</button>
             <div className={`div ${text2 ? 'show' : 'div'}`}>
                 <p className='leading-8 text-center md:text-left text-[15px] md:text-[17px] text-[#626364]'>Mauris euismod odio at commodo rhoncus. Maecenas nec interdum purus, sed auctor est. Sed eleifend urna nec diam consectetur, a aliquet turpis facilisis. Integer est sapien, sagittis vel massa vel, interdum euismod erat. Aenean sollicitudin nisi neque, efficitur posuere urna rutrum porta</p>
             </div>
         </div>
         <div className='faq md:w-[600px] flex flex-col justify-center items-center mx-auto'>
-            <button onClick={handleClick3} className='bg-white flex justify-between items-center'>1.Fusce eu lorem et dui #09C maximus varius?{text3 ? <FaAngleLeft className='-rotate-90 duration-300'/> : <FaAngleLeft className='duration-300'/>}</button>
+            <button onClick={handleClick3} className='bg-white flex justify-between items-center'>3.Fusce eu lorem et dui #09C maximus varius?{text3 ? <FaAngleLeft className='-rotate-90 duration-300'/> : <FaAngleLeft className='duration-300'/>}</button>
             <div className={`div ${text3 ? 'show' : 'div'}`}>
                 <p className='leading-8 text-center md:text-left text-[15px] md:text-[17px] text-[#626364]'>#666 Duis blandit purus vel nenenatis rutrum. Pellentesque pellentesque tindicunt lorem, ac egestas massa sollicitudin vel. Nam scelerisque vulputate quam mollis pretium. Morbi condimentum volutpat.</p>
             </div>
         </div>
         <div className='faq md:w-[600px] flex flex-col justify-center items-center mx-auto'>
-            <button onClick={handleClick4} className='bg-white flex justify-between items-center'>1.Fusce eu lorem et dui #09C maximus varius? {text4 ? <FaAngleLeft className='-rotate-90 duration-300'/> : <FaAngleLeft className='duration-300'/>}</button>
+            <button onClick={handleClick4} className='bg-white flex justify-between items-center'>4. Ut ac erat sit amet neque efficitur faucibus et in lectus?{text4 ? <FaAngleLeft className='-rotate-90 duration-300'/> : <FaAngleLeft className='duration-300'/>}</button>
             <div className={`div ${text4 ? 'show' : 'div'}`}>
                 <p className='leading-8 text-center md:text-left text-[15px] md:text-[17px] text-[#626364]'>Vivamus viverra pretium ultricies. Praesent feugiat, sapien vitae blandit efficitur, sem nulla venenatis nunc, vel maximus ligula sem a sem. Pellentesque ligula ex, facilisis ac libero a, blandit ullamcorper enim.</p>
             </div>
