@@ -29,7 +29,7 @@ const fliterType = (category) => {
             </div>
             <div className='grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2 w-full h-full'>
               {foods.map((item) => (
-                  <div key={item.id} className='card grid place-content-center border-[1px] border-[#ccc] rounded-lg mx-2 py-2'>
+                  <div key={item.id} className='card grid place-content-center border-[1px] border-[#ccc] rounded-lg mx-2 py-2 hover:scale-105 duration-300'>
                     <img className='object-cover w-[230px] h-[230px]' src={item.image} alt={item.name} />
                     <div className='flex justify-between px-2 py-1'>
                       <h2 className='md:text-[18px] font-medium'>{item.name}</h2>
