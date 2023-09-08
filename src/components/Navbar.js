@@ -20,7 +20,7 @@ const [activePath, setActivePath] = useState(location.pathname)
         <div className="navbar bottom-6 absolute flex justify-between items-center w-full">
           <div className="logo text-white flex items-center px-6 lg:px-12">
               <img className='lg:mx-2' src={Logo}  alt='/'/>
-              <h1 className='lg:text-4xl text-2xl font-normal'>Food House</h1>
+              <h1 className='lg:text-4xl text-2xl font-normal'>Restaurant House</h1>
           </div>
           <ul className='text-white flex gap-4 lg:gap-10 px-6 lg:px-12'>
               <li className={activePath === '/' ? 'md:text-[20px] hover:border-b-[1px] border-b-[1px]' : 'md:text-[20px] hover:border-b-[1px]'}><Link to='/'>Home</Link></li>

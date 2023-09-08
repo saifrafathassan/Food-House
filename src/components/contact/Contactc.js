@@ -5,7 +5,7 @@ const Contactc = () => {
   return (
     <div className='contact bg-white w-full h-full py-12'>
         <div className="welcome flex flex-col text-center items-center py-12 px-12">
-            <h1 className='lg:text-4xl text-2xl pb-10 font-medium'>Contact Page</h1>
+            <h1 className='lg:text-4xl text-2xl pb-10 font-medium'>Contact us</h1>
             <p className='text-[18px] pb-6 max-w-[600px] leading-8'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. culpa amet. Rerum, deserunt cupiditate dicta veritatis quasi eos nulla tempora reiciendis sint excepturi deleniti assumenda id quas amet?</p>
         </div>
         <div className='w-full gap-40 flex flex-col lg:flex-row items-center justify-center pb-12'>

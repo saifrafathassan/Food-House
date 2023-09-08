@@ -9,7 +9,7 @@ const About = () => {
   return (
     <div className='about bg-white w-full'>
         <div className="welcome flex flex-col text-center items-center py-12 px-12">
-            <h1 className='lg:text-4xl text-2xl pb-10 font-medium'>About Food House</h1>
+            <h1 className='lg:text-4xl text-2xl pb-10 font-medium'>About Restaurant House</h1>
             <p className='text-[18px] pb-6 max-w-[600px] leading-8'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. culpa amet. Rerum, deserunt cupiditate dicta veritatis quasi eos nulla tempora reiciendis sint excepturi deleniti assumenda id quas amet?</p>
         </div>
         <div className='grid sm:grid-col-1 lg:grid-cols-2 gap-6 m-auto w-full py-20'>
